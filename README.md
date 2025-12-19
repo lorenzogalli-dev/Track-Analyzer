@@ -1,6 +1,6 @@
 # Track Analyzer
 
-Track Analyzer is the first mobile app providing **high-level motion analysis for athletics** while balancing accuracy, speed, accessibility, and portability.
+Awarded first place at the Samsung Innovation Campus 2025 for the most innovative project in “Sport & Technology”, Track Analyzer is the first mobile app providing **high-level motion analysis for athletics** while balancing accuracy, speed, accessibility, and portability.
 
 Built with modern **pose-estimation AI models**, it delivers fast and reliable feedback on running mechanics **without requiring expensive hardware**, just a smartphone.
 
